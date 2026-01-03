@@ -1,15 +1,15 @@
-Hi there  ☆
+<h1> **Hi there! ☆** </h1>
 
-I'm Suhani, an undergraduate pursuing a BBA in Finance & Management Information Systems.
+## I'm Suhani, an undergraduate pursuing a BBA in Finance & Management Information Systems.
 
 I'm currently working on personal projects that combine both aspects of finance and tech to showcase my skills and interest in both fields. 
 
 My primary tech stack consists of SQL, Java, HTML, CSS, and JavaScript. My tools are Microsoft Suite, Power BI, Tableau, and NetBeans.
 
 
-Funfacts:
-⋆ I love photography & I own 4 cameras
-⋆ My favorite game is Minesweeper
+<ins> Funfacts: </ins>
+<br> ⋆ I love photography & I own 4 cameras <br>
+⋆ My favorite game is Minesweeper <br>
 ⋆ I like learning new skills on my own (Blender, Figma, etc.)
 
 <!--
