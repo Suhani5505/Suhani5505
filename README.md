@@ -1,4 +1,4 @@
-<h1> **Hi there! ☆** </h1>
+<h1> Hi there! ☆ </h1>
 
 ## I'm Suhani, an undergraduate pursuing a BBA in Finance & Management Information Systems.
 
