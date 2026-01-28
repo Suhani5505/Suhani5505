@@ -4,7 +4,17 @@
 
 I'm currently working on personal projects that combine both aspects of finance and tech to showcase my skills and interest in both fields. 
 
-My primary tech stack consists of SQL, Java, HTML, CSS, and JavaScript. My tools are Microsoft Suite, Power BI, Tableau, and NetBeans.
+My primary tech stack consists of SQL, Java, HTML, CSS, and JavaScript. My tools are Microsoft Suite, Power BI, Tableau, and NetBeans. <br>
+
+<ins> Currently working on: </ins> <br>
+⋆ IT project management project: work on a real-world case study to deliver an IT project <br>
+⋆ Network & Secuities <br>
+  -Create virtual machine <br>
+  -Cable making <br>
+  -Scanning ports using Wireshark <br>
+  -Create VM on Azure <br>
+
+
 
 
 <ins> Funfacts: </ins>
