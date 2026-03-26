@@ -19,7 +19,7 @@ My primary tech stack consists of SQL, Java, HTML, CSS, and JavaScript. My tools
 
 <ins> Funfacts: </ins>
 <br> ⋆ I love photography & I own 4 cameras <br>
-⋆ I love playing games, my top 3 are: Minesweeper, Fortnite, and Chess <br>
+⋆ I love playing games and reading <br>
 ⋆ I like learning new skills on my own (Blender, Figma, etc.)
 
 <!--
