@@ -1,18 +1,19 @@
-<h1> Hi there! ☆ </h1>
+<h1> Hello! ☆ </h1>
 
 ## I'm Suhani, an undergraduate pursuing a BBA in Finance & Management Information Systems.
 
 I'm currently working on personal projects that combine both aspects of finance and tech to showcase my skills and interest in both fields. 
 
-My primary tech stack consists of SQL, Java, HTML, CSS, and JavaScript. My tools are Microsoft Suite, Power BI, Tableau, and NetBeans. <br>
+My primary tech stack consists of SQL, Java, HTML, CSS, and JavaScript. My tools are Microsoft Suite, Power BI, and PowerQuery. <br>
 
-<ins> Currently working on: </ins> <br>
-⋆ IT project management project: real-world case study to deliver an IT project <br>
-⋆ Network & Securities <br>
-  -Create virtual machine <br>
-  -Cable making <br>
-  -Scanning ports using Wireshark <br>
-  -Create VM on Azure <br>
+<ins> My Experience: </ins> <br>
+I was an IT Planning and Operations intern at Toshiba International Corporation from May to August 2026. There, I was able to work on many projects such as <br>
+⋆ IT asset management <br>
+⋆ Workflow analysis <br>
+⋆ Automation and standardization of IT asset lifecycle <br>
+⋆ AI-driven solutions <br>
+These projects helped me gain hands-on experience in the IT field while strengthening and broadening my skills. I learned a lot during my time there, especially how business and technology intersect and the importance of it. 
+
 
 
 
