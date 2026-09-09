@@ -7,7 +7,7 @@ I'm currently working on personal projects that combine both aspects of finance 
 My primary tech stack consists of SQL, Java, HTML, CSS, and JavaScript. My tools are Microsoft Suite, Power BI, and PowerQuery. <br>
 
 <ins> My Experience: </ins> <br>
-I was an IT Planning and Operations intern at Toshiba International Corporation from May to August 2026. There, I was able to work on many projects such as <br>
+I was an IT Planning and Operations intern at Toshiba International Corporation from May 2026-August 2026. There, I was able to work on many projects such as <br>
 ⋆ IT asset management <br>
 ⋆ Workflow analysis <br>
 ⋆ Automation and standardization of IT asset lifecycle <br>
